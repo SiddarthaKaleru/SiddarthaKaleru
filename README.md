@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Siddartha%20Kaleru&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Data%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Siddartha%20Kaleru&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Data%20Scientist&descAlignY=55&descSize=18%22%20width=%22100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🤖+Building+Intelligent+Systems+with+AI+Agents;🚀FastAPI+%7C+LangGraph+%7C+Data+Engineering;🧠+NLP+%7C+RAG+%7C+Multi-Agent+Architectures)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%A4%96+Building+Intelligent+Systems+with+AI+Agents;%F0%9F%9A%80FastAPI+%7C+LangGraph+%7C+LangChain;%F0%9F%A7%A0+NLP+%7C+RAG+%7C+Multi-Agent+Architectures)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@ class SiddarthaKaleru:
     name       = "Siddartha Kaleru"
     college    = "Vasavi College of Engineering, Hyderabad"
     location   = "Hyderabad, India 🇮🇳"
-    passion    = ["AI Agents", "LLMs", "Full-Stack Apps", "Data Engineering"]
+    passion    = ["AI Agents", "LLMs", "Full-Stack Apps"]
     currently  = "Building multi-agent AI systems & web platforms"
 
     def say_hello(self):
