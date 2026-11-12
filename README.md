@@ -28,6 +28,7 @@ class SiddarthaKaleru:
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="SiddarthaKaleru's GitHub profile" src="dark_mode.svg" />
 </picture>
+
 ---
 
 ## 🛠️ Tech Stack
